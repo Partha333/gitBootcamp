@@ -1,5 +1,9 @@
 const name1 = "Parth"
 
+const name0 = "Get the hell out VK, I am here, Vada pav"
+const dev  = "Devraj"
+
+
 const name2 = "Get the hell out VK, I am here, Vada pav"
 var name3 = "GiGi HAdid"
 var gharPeBulaya = "Chai Vinh PUci"
